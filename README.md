@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17765720.svg)](https://doi.org/10.5281/zenodo.17765720)
+
 # FloodRadar / DryPath Map
 
 **FloodRadar / DryPath Map** is a web-based decision support tool that turns SAR flood maps into **address-level evacuation guidance**.  
@@ -271,4 +273,9 @@ This project would not be possible without:
 Distributed under the **MIT License**.  
 See `LICENSE` for details.
 
+## Citation
+
+If you use FloodRadar / DryPath Map in your work, please cite:
+
+> FloodRadar / DryPath Map (v1.0.0). Zenodo, 2025. DOI: [10.5281/zenodo.17765720](https://doi.org/10.5281/zenodo.17765720).
 
